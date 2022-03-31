@@ -12,4 +12,5 @@
 * __Difuse control__
 
 ## TP3 Machine learning (Python)
-* __Neural networks__
+* __Neural networks__ 
+
