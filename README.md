@@ -4,11 +4,7 @@
 * __Kmeans__
 * __Knn__
 
-The two algorithms of classification have been used to classify 4 diferents kind of fruits:
-- Tomatoes
-- Bananas
-- Orange 
-- Lemons
+The two algorithms of classification have been used to classify 4 diferents kind of fruits: Tomatoes, Bananas, Orange and Lemons.
 
 
 ## TP1 Sreaching and optimization (Python)
