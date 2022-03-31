@@ -1,5 +1,16 @@
 # TREATED ISUES
 
+## Artificial vision by classification algorithms
+* __Kmeans__
+* __Knn__
+
+The two algorithms of classification have been used to classify 4 diferents kind of fruits:
+- Tomatoes
+- Bananas
+- Orange 
+- Lemons
+
+
 ## TP1 Sreaching and optimization (Python)
 * __Sreaching algorithms (A star)__
 * __Genetic algorithm__
